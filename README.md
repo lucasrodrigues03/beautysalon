@@ -8,7 +8,7 @@ beautysaloon it's landing page for hair services
 </p>
 
 <p align="center">
- <img> src"imgbeautysalon.png"
+ <img> src"https://lucasrodrigues03.github.io/beautysalon/"
 </p>
 
 <br>
