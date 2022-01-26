@@ -8,7 +8,7 @@ beautysaloon it's landing page for hair services
 </p>
 
 <p align="center">
- <img> src"https://github.com/rocketseat-education/nlw-06-origin/raw/main/.github/preview.png"
+ <img> src"https://github.com/rocketseat-education/nlw-06-origin/raw/main/.github/preview.jpg"
 </p>
 
 <br>
@@ -17,7 +17,7 @@ beautysaloon it's landing page for hair services
   <img alt="OriginSix" src=".github/preview.png" width="100%">
 </p>
 
-## 🚀 Tecnologias
+## 🚀 Tecnologias background: transparent;
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
